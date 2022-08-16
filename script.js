@@ -8,6 +8,10 @@ function clearActiveClasses() {
 
 slides.forEach((slide) => {
   slide.addEventListener('click', () => {
+    if (slide.classList.contains('active')) {
+      clearActiveClasses();
+      return;
+    }
     clearActiveClasses();
     slide.classList.add('active');
   });
