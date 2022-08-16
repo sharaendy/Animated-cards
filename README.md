@@ -1,14 +1,15 @@
-### Description
+- ### Description
 
 The 'Accordion' element with cards on native Javascript.
 
-### Link
+- ### Link
+
 https://cards_aash.surge.sh/
 
-### Usage
+- ### Usage
 
 You can select a picture by clicking on it.
 
-### Alternative way
+- #### Alternative way
 
 https://codepen.io/sharaendy/pen/YzaRWOE
